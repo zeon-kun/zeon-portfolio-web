@@ -7,26 +7,16 @@ import {
 } from '@icons-pack/react-simple-icons';
 
 const contact: Contact = {
-  email: 'john@example.com',
+  email: 'rafif.zeon@gmail.com',
   socials: [
     {
       name: 'Github',
-      href: 'https://github.com/',
+      href: 'https://github.com/zeon-kun',
       Icon: SiGithub
     },
     {
-      name: 'Youtube',
-      href: 'https://youtube.com/',
-      Icon: SiYoutube
-    },
-    {
-      name: 'X',
-      href: 'https://x.com/',
-      Icon: SiX
-    },
-    {
       name: 'Linkedin',
-      href: 'https://linkedin.com/',
+      href: 'https://www.linkedin.com/in/muhammad-rafif-tri-risqullah-65311421a/',
       Icon: SiLinkedin
     }
   ]

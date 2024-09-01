@@ -5,49 +5,33 @@ const projects: Project[] = [
     name: 'Personal Portfolio Website',
     slug: 'portfolio',
     description:
-      'A personal portfolio to showcase your coding projects, resume, and skills in a beautifully designed format.',
-    thumbnail: '/images/projects/portfolio/cover.jpg',
-    tags: ['NextJS', 'Chakra UI', 'TailwindCSS', 'Drizzle ORM']
+      'A personal portfolio to showcase my coding projects, resume, and skills in a beautifully designed format.',
+    thumbnail: '/images/projects/portfolio/cover.png',
+    tags: ['NextJS', 'Shadcn UI', 'TailwindCSS']
   },
   {
-    name: 'Recipe Sharing App',
-    slug: 'recipe_app',
+    name: 'Glucofit - Sugar Tracking Mobile App',
+    slug: 'glucofit',
     description:
-      'A social app for food lovers where users can post, share, and discover recipes from around the world.',
-    thumbnail: '/images/projects/recipe_app/cover.jpg',
-    tags: ['ReactJS', 'Express', 'Firebase', 'TailwindCSS']
+      'GlucoFit is a mobile app designed to combat diabetes in Indonesia by empowering users with tools for informed dietary choices.',
+    thumbnail: '/images/projects/glucofit/cover.png',
+    tags: ['Express.js', 'Flask.py', 'Google Cloud Platform']
   },
   {
-    name: 'Virtual Study Group Platform',
-    slug: 'study_group',
+    name: 'Minecraft Server',
+    slug: 'mcserver',
     description:
-      'A platform where students can form virtual study groups, schedule sessions, and share resources in real-time.',
-    thumbnail: '/images/projects/study_group/cover.jpg',
-    tags: ['ReactJS', 'Firebase', 'Bootstrap']
+      'A personal hosted server using a VPS bought on hostinger to host a popular game "Minecraft". The server has automated backups, restart, and also a backward and forward compatible script. Installed with mods such as Spark Profiler, Easy Auth, and much more',
+    thumbnail: '/images/projects/mcserver/cover.png',
+    tags: ['Bash Scripting', 'Linux']
   },
   {
-    name: 'Fitness Tracker App',
-    slug: 'fitness_tracker',
+    name: 'Game Topup',
+    slug: 'topup',
     description:
-      'A mobile app that helps users track their fitness activities, set goals, and monitor progress with motivational tools.',
-    thumbnail: '/images/projects/fitness_tracker/cover.jpg',
-    tags: ['React Native', 'Firebase', 'TailwindCSS']
-  },
-  {
-    name: 'Eco-friendly Marketplace',
-    slug: 'eco_marketplace',
-    description:
-      'An e-commerce platform dedicated to eco-friendly products where users can buy, sell, and learn about sustainable living.',
-    thumbnail: '/images/projects/eco_marketplace/cover.jpg',
-    tags: ['NextJS', 'Chakra UI', 'TailwindCSS', 'Drizzle ORM']
-  },
-  {
-    name: 'Interactive Coding Tutorial Site',
-    slug: 'coding_tutorials',
-    description:
-      'A website offering interactive coding tutorials and challenges to help users learn programming languages through practice.',
-    thumbnail: '/images/projects/coding_tutorials/cover.jpg',
-    tags: ['NextJS', 'TailwindCSS', 'Drizzle ORM']
+      'A college project that focuses on the usage of Laravel Basics.',
+    thumbnail: '/images/projects/topup/cover.png',
+    tags: ['Laravel', 'Bladewind UI', 'Blade']
   }
 ];
 

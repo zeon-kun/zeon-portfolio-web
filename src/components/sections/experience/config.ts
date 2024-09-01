@@ -2,32 +2,25 @@ import { Experience } from '@/types/experience';
 
 const experiences: Experience[] = [
   {
-    name: 'Web Development',
-    duration: '2022 - Present',
-    company: 'Acme Inc',
+    name: 'Teaching Assistant - Network Computer, Data Structure, Operation System, Fundamental Programming, Database System',
+    duration: 'August 2023 - Present',
+    company: 'Institut Teknologi Sepuluh Nopember (ITS)',
     description:
-      'Building beautiful and functional websites using modern web technologies, focusing on performance, accessibility, and SEO-friendly design.'
+      'Assisted in various courses including Network Computer, Data Structure, Operating Systems, Fundamental Programming, and Database Systems. Provided hands-on lab sessions, created exercises, and supported students in understanding complex theoretical and practical concepts.'
   },
   {
-    name: 'UI/UX Design',
-    duration: '2021 - 2022',
-    company: 'Creative Designs Ltd',
+    name: 'Expert Creative Staff',
+    duration: 'January 2023 - December 2023',
+    company: 'Schematics ITS',
     description:
-      'Creating delightful and intuitive user experiences, specializing in responsive design and user-centric methodologies.'
+      'Led creative efforts in designing and decorating events for Schematics ITS. Collaborated with teams to deliver visually appealing and engaging event experiences, contributing to the success of university events.'
   },
   {
-    name: 'Database Management',
-    duration: '2020 - 2022',
-    company: 'DataTech Solutions',
+    name: 'Cloud Computing Cohort',
+    duration: 'February 2024 - July 2024',
+    company: 'Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka',
     description:
-      'Storing and organizing data efficiently, ensuring data integrity, and optimizing database queries for high traffic applications.'
-  },
-  {
-    name: 'Mobile Development',
-    duration: '2019 - 2021',
-    company: 'Innovative Apps Inc',
-    description:
-      'Crafting engaging and scalable apps for smartphones and tablets, focusing on cross-platform development and native performance.'
+      'Participated in an intensive Cloud Computing program, focusing on Google Cloud Platform (GCP). Developed a capstone project, GlucoFit, which involved backend development using Express.js and Flask, and cloud integration using GCP services like Cloud Run, Cloud Storage, and Cloud SQL.'
   }
 ];
 
